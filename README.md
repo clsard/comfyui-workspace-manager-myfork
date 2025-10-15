@@ -1,3 +1,7 @@
+## Estado del fork (CONGELADO)
+Compatible con: ComfyUI 0.3.62 · Python 3.12.10 · Torch 2.8.0+cu128 (CUDA 12.8)
+Esta release es la estable. No se aceptan cambios en `main`. Usa `dev` para pruebas.
+
 # ☕️ ComfyUI Workspace Manager - Comfyspace
 
 
